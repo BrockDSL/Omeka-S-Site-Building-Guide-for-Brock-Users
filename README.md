@@ -1,4 +1,4 @@
-![Tool Logo][imglogo]
+![Banner Image][imglogo]
 
 
 # Title
