@@ -56,7 +56,7 @@ The last settings to adjust are found by clicking on "Theme" in the menu on the 
 
 Depending on the theme you have chosen the options in this area will change.  Feel free to experiment with your theme setting to make your site look and act the way you want it to.  The only thing you need to do here to adhere to the DSL guidelines is to include the following line of code into your footer content.
 
-`code` Powered by Omeka S and created with the support of the Brock University Digital Scholarship Lab – <a href = "mailto: DSL@Brocku.ca">DSL@Brocku.ca</a> `code`
+` Powered by Omeka S and created with the support of the Brock University Digital Scholarship Lab – <a href = "mailto: DSL@Brocku.ca">DSL@Brocku.ca</a> `
 
 
 
