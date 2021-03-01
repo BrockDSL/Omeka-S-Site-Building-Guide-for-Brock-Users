@@ -25,7 +25,7 @@ Next you will go to the "Theme" tab at the top of your screen and select a theme
 
 Once you have chosen a theme, click the "Add" button at the top right of the screen.
 
-![Video 1][vid1]
+<iframe src="https://h5pstudio.ecampusontario.ca/h5p/18304/embed" width="993" height="584" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ## Step 2 - Make an Item Set
 
@@ -103,4 +103,4 @@ You can also find us on:
 <!--- Please use reference style images so that it is easier to update pictures later --->
 
 [imglogo]: guide_logo.png
-[vid1]: make_site.mp4
+
