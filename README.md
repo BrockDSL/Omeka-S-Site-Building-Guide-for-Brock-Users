@@ -103,4 +103,4 @@ You can also find us on:
 <!--- Please use reference style images so that it is easier to update pictures later --->
 
 [imglogo]: guide_logo.png
-[vid1]: 2021-03-01 17-02-44_Trim.mp4
+[vid1]: make_site.mp4
