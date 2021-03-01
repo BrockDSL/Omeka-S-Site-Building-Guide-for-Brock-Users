@@ -56,11 +56,33 @@ The last settings to adjust are found by clicking on "Theme" in the menu on the 
 
 Depending on the theme you have chosen the options in this area will change.  Feel free to experiment with your theme setting to make your site look and act the way you want it to.  The only thing you need to do here to adhere to the DSL guidelines is to include the following line of code into your footer content.
 
-` Powered by Omeka S and created with the support of the Brock University Digital Scholarship Lab – <a href = "mailto: DSL@Brocku.ca">DSL@Brocku.ca</a> `
+`Powered by Omeka S and created with the support of the Brock University Digital Scholarship Lab – <a href = "mailto: DSL@Brocku.ca">DSL@Brocku.ca</a>`
+
+Once you have adjusted your settings click the "Save" button in the top right.
+
+## Step 4 - Item Assignment
+
+With that your site is set up and ready to start building but before you start making items and building pages there is one more guideline to be aware of.  As of Omeka S 3.0 items must now be assigned to sites in order to be used on that site.  This is to prevent issues where items not contained in a site were being connected to that site by the google search algorith.  What this means for you is that when you are making items there are now two very important steps that must be done.
+
+When creating a new item you must:
+
+* Assign it to an item set by opening the "Item sets" tab and adding the item sets for any site that the item will be used on from the right menu to the central area
+* Assign it to a site set by opening the "Sites" tab and adding all of the sites that the item will be used on from the right menu to the central area
+
+## Step 5 - Build and enjoy
+
+That concludes this guide on how to set up your Omeka S site so that it adheres to the Brock University Digital Scholarship Lab Omeka S Guidelines.  If you want to discuss these guideline or set up a meeting with a member of the DSL staff to discuss your site, please contact us at DSL@Brocku.ca
 
 
 
-**This tutorial is brought to you by the Brock University Digital Scholarship Lab.  For more information on the DSL check out our website at [www.brocku.ca/library/dsl/](https://brocku.ca/library/dsl/) or you can e-mail us at dsl@brocku.ca.**  
+
+
+
+
+
+
+
+**This guide is brought to you by the Brock University Digital Scholarship Lab.  For more information on the DSL check out our website at [www.brocku.ca/library/dsl/](https://brocku.ca/library/dsl/) or you can e-mail us at dsl@brocku.ca.**  
   
 You can also find us on:  
 [Facebook](https://www.facebook.com/Brock-University-Digital-Scholarship-Lab-349407235866792/)  
