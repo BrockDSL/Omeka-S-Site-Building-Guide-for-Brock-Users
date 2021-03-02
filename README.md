@@ -91,7 +91,7 @@ That concludes this guide on how to set up your Omeka S site so that it adheres 
 
 
 
-
+---
 
 
 
