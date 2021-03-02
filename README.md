@@ -67,6 +67,8 @@ Depending on the theme you have chosen the options in this area will change.  Fe
 
 Once you have adjusted your settings click the "Save" button in the top right.
 
+<iframe src="https://h5pstudio.ecampusontario.ca/h5p/18370/embed" width="993" height="584" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
+
 ---
 
 # Step 4 - Item Assignment
