@@ -78,7 +78,9 @@ With that your site is set up and ready to start building but before you start m
 When creating a new item, you must:
 
 * Assign it to an item set by opening the "Item sets" tab and adding the item sets for any site that the item will be used on from the right menu to the central area
-* Assign it to a site set by opening the "Sites" tab and adding all of the sites that the item will be used on from the right menu to the central area
+* Assign it to a site by opening the "Sites" tab and adding all of the sites that the item will be used on from the right menu to the central area
+
+<iframe src="https://h5pstudio.ecampusontario.ca/h5p/18417/embed" width="993" height="584" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ---
 
