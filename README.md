@@ -90,7 +90,7 @@ That concludes this guide on how to set up your Omeka S site so that it adheres 
 
 
 
-
+![Omeka 4 Life][omekalife]
 
 
 ---
@@ -117,4 +117,4 @@ You can also find us on:
 <!--- Please use reference style images so that it is easier to update pictures later --->
 
 [imglogo]: guide_logo.png
-
+[omekalife]: omeka4life.png
