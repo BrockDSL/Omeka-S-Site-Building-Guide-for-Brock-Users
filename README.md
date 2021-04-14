@@ -86,7 +86,7 @@ When creating a new item, you must:
 
 # Step 5 - Atribution and Security
 
-The last thing to consider for your site is if it will require any terms and conditions, rights statements, or attributions.  If any of these things are required, it is reccomended to have either a page dedicated to these on your site or to add tis information to the bottom of an "About" page.  If you need some reference for how to word such statements check out the (Creative Commons License Design and Terminology)[https://certificates.creativecommons.org/cccertedu/chapter/3-1-license-design-and-terminology/] page or the (Terms and Conditions page of the Documenting Covid-19 in Niagara)[https://exhibits.library.brocku.ca/s/COVID-Niagara/page/TandC] site for examples.
+The last thing to consider for your site is if it will require any terms and conditions, rights statements, or attributions.  If any of these things are required, it is reccomended to have either a page dedicated to these on your site or to add tis information to the bottom of an "About" page.  If you need some reference for how to word such statements check out the (Creative Commons License Design and Terminology)(https://certificates.creativecommons.org/cccertedu/chapter/3-1-license-design-and-terminology/) page or the (Terms and Conditions page of the Documenting Covid-19 in Niagara)(https://exhibits.library.brocku.ca/s/COVID-Niagara/page/TandC) site for examples.
 
 ---
 
