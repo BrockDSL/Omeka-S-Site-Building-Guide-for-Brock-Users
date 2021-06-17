@@ -5,6 +5,8 @@ Welcome to the Omeka S Site Building Guide!  This guide will walk through all of
 
 Without further ado, lets get building!
 
+**It is reccomended that the first three steps all be completed at the same time to prevent issues caused by having a site without the correct settings interfering with other users work.**
+
 # Step 1 - Make a Site
 
 Log in to the Brock University Library instance of Omeka S by going to https://exhibits.library.brocku.ca/login and signing in using the credentials set up for you by the Brock DSL. This will bring you to your Omeka S Dashboard.  From here, click on "Sites" in the left-hand menu to get to the site list and then click the "Add new site" button in the top right.
