@@ -27,6 +27,8 @@ Next you will go to the "Theme" tab at the top of your screen and select a theme
 
 Once you have chosen a theme, click the "Add" button at the top right of the screen.
 
+The slides below demonstrate the above steps.
+
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/18304/embed" width="993" height="584" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script> 
 
 ---
@@ -40,6 +42,8 @@ By default, there will be two properties to fill in for the item set, Title and 
 You can add any other properties you want to your item set but the only requirement to adhere to the DSL guidelines is to have a title that matches the name of the site the item set is for.
 
 Click the "Save" button in the top right.
+
+The slides below demonstrate the above steps.
 
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/18367/embed" width="993" height="584" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
@@ -69,6 +73,8 @@ Depending on the theme you have chosen the options in this area will change.  Fe
 
 Once you have adjusted your settings click the "Save" button in the top right.
 
+The slides below demonstrate the above steps.
+
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/18370/embed" width="993" height="584" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ---
@@ -81,6 +87,8 @@ When creating a new item, you must:
 
 * Assign it to an item set by opening the "Item sets" tab and adding the item sets for any site that the item will be used on from the right menu to the central area
 * Assign it to a site by opening the "Sites" tab and adding all of the sites that the item will be used on from the right menu to the central area
+
+The slides below demonstrate the above steps.
 
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/18417/embed" width="993" height="584" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
